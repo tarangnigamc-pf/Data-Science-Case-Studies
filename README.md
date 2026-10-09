@@ -17,3 +17,6 @@ pip install pandas numpy scikit-learn matplotlib seaborn scipy statsmodels strea
 jupyter notebook
 ```
 Notebooks that begin with `!gdown ...` download their data from Google Drive. The same files are already in each `data/` folder, so you can read them locally instead.
+
+## Cheat sheets
+- [Advanced ML Cheat Sheet](Cheat_Sheets/Advanced_ML_Cheat_Sheet.pdf) - 4-page quick guide to Decision Tree, Random Forest, AdaBoost, XGBoost, CatBoost, SVM, K-Means, Exponential Smoothing, ARIMA and SARIMA, with a 60-minute teaching plan.
